@@ -1,36 +1,36 @@
 {
   "schema": 1,
   "channel": "nightly",
-  "version": "v0.2.14-4736fb5",
-  "released_at": "2026-10-29T21:46:15Z",
-  "expires_at": "2026-11-12T21:46:15Z",
+  "version": "v0.2.14-052a265",
+  "released_at": "2026-10-31T10:58:06Z",
+  "expires_at": "2026-11-14T10:58:06Z",
   "min_from": "v0.1.0",
-  "notes_url": "https://github.com/Daharness/daharness/releases/tag/v0.2.14-4736fb5",
+  "notes_url": "https://github.com/Daharness/daharness/releases/tag/v0.2.14-052a265",
   "artifacts": {
     "linux-aarch64": {
-      "url": "https://github.com/Daharness/daharness/releases/download/v0.2.14-4736fb5/cpilot-linux-aarch64.tar.gz",
-      "sha256": "5b044d1b03c05c187b633be0fb2744c92043fb80c446d4b4642c8c47015015a5",
-      "size": 116791090
+      "url": "https://github.com/Daharness/daharness/releases/download/v0.2.14-052a265/cpilot-linux-aarch64.tar.gz",
+      "sha256": "d9bf832c999e4f43af7b3965f26dae9b19b238882f3a41e78a84366c4301dda0",
+      "size": 116791109
     },
     "linux-aarch64-musl": {
-      "url": "https://github.com/Daharness/daharness/releases/download/v0.2.14-4736fb5/cpilot-linux-aarch64-musl.tar.gz",
-      "sha256": "eaea851fc78a94a126d93e5c961bacd6c29a025f20416400a411ac95c3a4be2c",
-      "size": 30806576
+      "url": "https://github.com/Daharness/daharness/releases/download/v0.2.14-052a265/cpilot-linux-aarch64-musl.tar.gz",
+      "sha256": "bdb44f381723c348259f08c280375f1e4cdc7ca0f74bd377d3857a99b9295636",
+      "size": 30806483
     },
     "linux-x86_64": {
-      "url": "https://github.com/Daharness/daharness/releases/download/v0.2.14-4736fb5/cpilot-linux-x86_64.tar.gz",
-      "sha256": "f4a5ced7edaff6bed6b86bae30d65558ddfb6162356ecf2878c36c998121b704",
-      "size": 117410320
+      "url": "https://github.com/Daharness/daharness/releases/download/v0.2.14-052a265/cpilot-linux-x86_64.tar.gz",
+      "sha256": "c49db69c38ec943b6414fea446833108e7d40096ba9f18a0c28d8b09032de2cc",
+      "size": 117412205
     },
     "macos-aarch64": {
-      "url": "https://github.com/Daharness/daharness/releases/download/v0.2.14-4736fb5/cpilot-macos-aarch64.tar.gz",
-      "sha256": "6bc534ddf08a6398b1ec915b019477bd8c370a6b50ed7d639867b312708209b3",
-      "size": 110250592
+      "url": "https://github.com/Daharness/daharness/releases/download/v0.2.14-052a265/cpilot-macos-aarch64.tar.gz",
+      "sha256": "1971ebd6967e7442ef723badbecdff59f583b76479da62edcf7caa680e59d8e7",
+      "size": 110250577
     },
     "macos-x86_64": {
-      "url": "https://github.com/Daharness/daharness/releases/download/v0.2.14-4736fb5/cpilot-macos-x86_64.tar.gz",
-      "sha256": "d88546860a121e21e495debc0fa38df8d38283c58645152d8118a37cb385e5cb",
-      "size": 111079971
+      "url": "https://github.com/Daharness/daharness/releases/download/v0.2.14-052a265/cpilot-macos-x86_64.tar.gz",
+      "sha256": "e6f907cdf9626e6e7032ad69dbe67416e056dbb876f40ab19be72d8999cc2fe2",
+      "size": 111080140
     }
   }
 }
